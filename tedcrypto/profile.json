@@ -1,0 +1,60 @@
+{
+    "name": "Tedcrypto.io 🧸 | TedLotto",
+    "slug": "tedcrypto",
+    "keybase": "6D5F63F1DDCF0404",
+    "bio": "Bringing fun to stake. Delegate and grab your free lotto tickets here: https://lotto.tedcrypto.io",
+    "addresses": [
+        {
+            "name": "cerberus",
+            "address": "cerberusvaloper1c4pewt03f0fnwrf4vcgawzl6pllm3l9kfffu7l"
+        },
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper1qxw4fjged2xve8ez7nu779tm8ejw92rv0vcuqr"
+        },
+        {
+            "name": "evmos",
+            "address": "evmosvaloper19fv2gwkgv3x53lau3um6tzg7qxvq96grvg97zr"
+        },
+        {
+            "name": "nomic",
+            "address": "nomic19j7gxur5dawf0r2l7yrkfkj3rqvvz8798sx2zs"
+        }
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://www.twitter.com/tedcrypto_"
+        },
+        {
+            "name": "github",
+            "url": "https://www.github.com/TedcryptoOrg"
+        },
+        {
+            "name": "website",
+            "url": "https://www.tedcrypto.io"
+        },
+        {
+            "name": "TedLotto",
+            "url": "https://lotto.tedcrypto.io"
+        },
+        {
+            "name": "Docs",
+            "url": "https://docs.tedcrypto.io"
+        }
+    ],
+    "languages": [
+        "english",
+        "french",
+        "portuguese"
+    ],
+    "interests": [
+        "movies",
+        "anime",
+        "shows",
+        "gaming",
+        "validator_tools",
+        "opensource",
+        "community"
+    ]
+}
